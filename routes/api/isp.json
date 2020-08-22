@@ -1,0 +1,76 @@
+{
+    "arr": [
+        {
+            "Name": "Airtel",
+            "lowest_pice": 500,
+            "rating": 5,
+            "max_speed": 40,
+            "description": "",
+            "contact_no": "65545",
+            "email": "airtel@yahoo.com",
+            "image": "https://s3.india.com/wp-content/uploads/2017/02/airtel-2-1.jpg",
+            "url": "https://www.airtel.com/",
+            "vid_url": "https://www.youtube.com/embed/lfKY0C7p8Qo?autoplay=1&mute=1&enablejsapi=1&rel=0&controls=0&modestbranding=1&loop=1"
+        },
+        {
+            "Name": "BSNL",
+            "lowest_pice": 750,
+            "rating": 1,
+            "max_speed": 50,
+            "description": "",
+            "contact_no": "9999",
+            "email": "bsnl@yahoo.com",
+            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/97/BSNL_Logo.svg/1200px-BSNL_Logo.svg.png",
+            "url": "http://www.bsnl.co.in/",
+            "vid_url": "https://www.youtube.com/embed/zvNAtCayU5E?autoplay=1&mute=1&enablejsapi=1&rel=0&controls=0&modestbranding=1&loop=1"
+        },
+        {
+            "Name": "Hathway",
+            "lowest_pice": 300,
+            "rating": 4,
+            "max_speed": 30,
+            "description": "",
+            "contact_no": "65656",
+            "email": "hathway@yahoo.com",
+            "image": "https://img.etimg.com/thumb/width-640,height-480,imgsize-86578,resizemode-1,msid-65674538/industry/media/entertainment/hathway-partners-with-netflix-to-offer-seamless-streaming-over-stb/hathway-et.jpg",
+            "url": "https://www.hathway.com/",
+            "vid_url": "https://www.youtube.com/embed/oFs3yiz5Ouk?autoplay=1&mute=1&enablejsapi=1&rel=0&controls=0&modestbranding=1&loop=1"
+        },
+        {
+            "Name": "ACT Fibernet",
+            "lowest_pice": 650,
+            "rating": 3,
+            "max_speed": 10,
+            "description": "",
+            "contact_no": "65668",
+            "email": "act@yahoo.com",
+            "image": "https://pbs.twimg.com/profile_images/1095948419623841792/vpInBi3o.png",
+            "url": "https://www.actcorp.in/campaigns/actfibernethyderabad1/?utm_source=Google&utm_medium=CPC&utm_campaign=8705927218&utm_adgroup=87894030935&utm_term=act%20fiber&creative=455344948284&device=c&devicemodel=&matchtype=e&feeditemid=&targetid=kwd-295732802820&network=g&placement=&adposition=&GA_loc_interest_ms=&GA_loc_physical_ms=9040231&gclid=Cj0KCQjwhIP6BRCMARIsALu9LflOJvchcHD-KpeOuVhogeUKbQGfsJIiptrEzxHb7lqNNsjL7J4nkvEaAuKIEALw_wcB",
+            "vid_url": "https://www.youtube.com/embed/hLkil8O3cmQ?autoplay=1&mute=1&enablejsapi=1&rel=0&controls=0&modestbranding=1&loop=1"
+        },
+        {
+            "Name": "You BraodBand",
+            "lowest_pice": 420,
+            "rating": 4,
+            "max_speed": 60,
+            "description": "",
+            "contact_no": "5645",
+            "email": "you@yahoo.com",
+            "image": "data:image/jpeg;base64,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",
+            "url": "https://youbroadband.in/",
+            "vid_url": "https://www.youtube.com/embed/oFs3yiz5Ouk?autoplay=1&mute=1&enablejsapi=1&rel=0&controls=0&modestbranding=1&loop=1"
+        },
+        {
+            "Name": "Jio",
+            "lowest_pice": 200,
+            "rating": 5,
+            "max_speed": 50,
+            "description": "",
+            "contact_no": "12124",
+            "email": "jio@yahoo.com",
+            "image": "https://images.financialexpress.com/2016/11/jio-l-web.jpg",
+            "url": "https://www.jio.com/",
+            "vid_url": "https://www.youtube.com/embed/r_Y8CYmaRBE?autoplay=1&mute=1&enablejsapi=1&rel=0&controls=0&modestbranding=1&loop=1"
+        }
+    ]
+}

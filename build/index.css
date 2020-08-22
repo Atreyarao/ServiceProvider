@@ -1,0 +1,49 @@
+nav{
+    height:15vh;
+    color: black;
+    width: 100%;
+    display: flex;
+    
+}
+.fas{
+    font-size: 50px;
+}
+.flex{
+    display: flex;
+    width: 100%;
+justify-content: center;
+}
+.left{
+    display: flex;
+    justify-content: start;
+    width: 50%;
+}
+.right{
+    display:flex;
+    justify-content: center;
+    width: 50%;
+
+}
+.card-img-top{
+    height: 200px;
+    width: 300px !important;
+}
+.fa-rupee-sign{
+    font-size: x-large;
+}
+.card-group{
+    justify-content: space-around;
+}
+.card-body{
+    background-color: #F7F7F7;
+}
+.main-caro{
+    width: 100%;
+}
+
+.custfab{
+    font-size: 50px;
+}
+footer{
+    background-color: floralwhite;
+}
